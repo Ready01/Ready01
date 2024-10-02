@@ -1,5 +1,5 @@
-## Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Rention Kapo</h1>
+<h3 align="center">Student At The University Of West Attica</h3>
 <!--
 **Ready01/Ready01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
